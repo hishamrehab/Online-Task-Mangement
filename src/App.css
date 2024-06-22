@@ -26,8 +26,9 @@ header .logo {
 }
 
 header .logo img {
-  max-width: 40px;
+  max-width: 50px;
   cursor: pointer;
+  height: 30px;
 }
 
 header .logo span {

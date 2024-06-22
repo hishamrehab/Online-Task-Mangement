@@ -37,7 +37,6 @@ const ShowTask = ({ tasklist, setTasklist, task, setTask }) => {
                 })
                 }
 
-
             </ul>
 
         </section>
